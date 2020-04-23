@@ -8,9 +8,7 @@ public class Customer {
             System.out.println("i="+i);
         }
         System.out.println("时间："+ new Date());
-
-
-//        System.out.println("hello zhouaiqin!");
+        System.out.println("日期："+new Date());
     }
 }
  
