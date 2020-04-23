@@ -9,7 +9,7 @@ public class Customer {
         }
         System.out.println("时间："+ new Date());
         System.out.println("日期："+new Date());
-      System.out.println("日期："+new Date());
+             System.out.println("日期："+new Date());
     }
 }
  
